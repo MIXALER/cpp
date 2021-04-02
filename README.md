@@ -1,1 +1,1 @@
-# learnc
+# learn c and cpp
