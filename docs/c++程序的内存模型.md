@@ -50,8 +50,6 @@ title: c/c++ 内存分区模型
 
 c++中主要利用new再堆区开辟内存，释放用delete，c中用malloc和free。
 
-
-
 ```c++
 #include <iostream>
 
